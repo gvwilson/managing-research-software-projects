@@ -25,7 +25,7 @@ keypoints:
     *   Group similar files together in appropriately named directories.
     *   Take advantage of naming and organization conventions unless there is a compelling reason to "roll your own".
 
-> ## How Is Your Project Currently Organized?
+> ## How Is Your Project Currently Organized.
 >
 > Draw a diagram of how your project is currently organized?
 > - Is this documented anywhere?
