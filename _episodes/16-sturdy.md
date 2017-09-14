@@ -26,7 +26,7 @@ keypoints:
 ![Sturdy Lifecycle]({{"/fig/sturdy.png" | absolute_url}})
 
 1.  *Gather requirements*: figure out what the software is supposed to do
-    *   The responsibiliyt of the *product manager*
+    *   The responsibility of the *product manager*
     *   While developers are working on version 4, she talks to stakeholders about what they want in version 5
     *   Never ask them what features they want in the software, but rather:
         *   What does it do now that you don't like?
